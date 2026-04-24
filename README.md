@@ -1,0 +1,1 @@
+This project analyzes student data to predict post-secondary dropout risk using machine learning models. The goal is to identify key factors contributing to student attrition and provide data-driven insights to support early intervention strategies.
